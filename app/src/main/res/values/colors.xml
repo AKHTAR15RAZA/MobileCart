@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="primary">#0074BC</color>
+    <color name="primary_dark">#081835</color>
+    <color name="text_color">#1F272A</color>
+    <color name="hint_color">#949595</color>
+    <color name="edittext_background">#BCE4E4E4</color>
+
+    <color name="colorContainer">#EAEBEA</color>
+    <color name="colorContainerNight">#454D61</color>
+
+    <color name="colorContainerSecondary">#f2f2f2</color>
+    <color name="colorContainerSecondaryNight">#373F4D</color>
+
+    <color name="colorNavigationBottomBackground">#FFFFFF</color>
+    <color name="colorNavigationBottomBackgroundNight">#191813</color>
+
+    <color name="colorBookNowBackground">#F7FFFFFF</color>
+    <color name="colorBookNowBackgroundNight">#F7F2F4F2</color>
+
+    <color name="colorContainerBackground">#1F1B1B</color>
+    <color name="colorContainerBackgroundDim">#3A3737</color>
+
+    <color name="colorToolbarTransparentDay">#ABFFFFFF</color>
+    <color name="colorToolbarTransparentNight">#AB000000</color>
+
+</resources>

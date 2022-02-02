@@ -1,0 +1,18 @@
+{
+  "devices": [
+    {
+      "Id": 1234,
+      "OS": "Android 6",
+      "type": "Android",
+      "Price": 20,
+      "Title": "Samsung Galaxy S7",
+      "Design": "1920 * 800",
+      "Status": "Available",
+      "Ratings": 5,
+      "Currency": "USD",
+      "imageUrl": "https://jsonformatter.org/img/tom-cruise.jpg",
+      "isFavorite": false,
+      "Description": "These are Android-based smartphones manufactured, released and marketed by Samsung Electronics."
+    }
+  ]
+}

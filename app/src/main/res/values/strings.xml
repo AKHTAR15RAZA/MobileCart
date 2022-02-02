@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MobileCart</string>
+    <string name="devices">Devices</string>
+    <string name="device_name">Device Name</string>
+    <string name="status_available">Status: </string>
+    <string name="reviews">Ratings: </string>
+    <string name="size_1600_x_800">Size: </string>
+    <string name="status_available_txt">Status: </string>
+    <string name="os_android_10">OS: </string>
+    <string name="specifications">Specifications:</string>
+    <string name="description">Description:</string>
+    <string name="default_internet_message">No internet connection</string>
+    <string name="try_now">Try Now</string>
+    <string name="search">Search</string>
+    <string name="favourite">Favourite</string>
+    <string name="double_back_button">"Please click back again to exit"</string>
+</resources>
